@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
