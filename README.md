@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
