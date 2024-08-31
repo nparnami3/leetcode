@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
