@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
