@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Simulation
 |  |
 | ------- |
