@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/nparnami3/-CrackYourPlacement/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/nparnami3/-CrackYourPlacement/tree/master/3220-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
