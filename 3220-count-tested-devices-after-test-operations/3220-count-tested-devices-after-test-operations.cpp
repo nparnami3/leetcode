@@ -1,5 +1,6 @@
 class Solution {
 public:
+//BRUTE FORCE
     int countTestedDevices(vector<int>& arr) {
         int n = arr.size();
         int count=0;
