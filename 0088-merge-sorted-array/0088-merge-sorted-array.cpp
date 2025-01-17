@@ -1,27 +1,19 @@
 class Solution {
 public:
-    void merge(vector<int>& arr1, int m, vector<int>& arr2, int n) {
-        int left = m-1; 
-        int right = 0;
-        int index = m;
-        //STEP-1 : SWAPPING
-        while(left >= 0 && right < n){
-            if(arr1[left] > arr2[right]){
-                swap(arr1[left], arr2[right]);
-                left--; right++;
-            }
-            else{
-                break; //all the remaining are in the correct fashion
-            }
-        }
-        for(int i=0; i<n;i++){
-            swap(arr1[index], arr2[i]);
-            index++;
-        }
-        // STEP-2 : SORTING 
-        sort(arr1.begin(), arr1.end());
-        // sort(arr2.begin(), arr2.end());
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int midx = m - 1;
+        int nidx = n - 1;
+        int right = m + n - 1;
 
-
+        while (nidx >= 0) {
+            if (midx >= 0 && nums1[midx] > nums2[nidx]) {
+                nums1[right] = nums1[midx];
+                midx--;
+            } else {
+                nums1[right] = nums2[nidx];
+                nidx--;
+            }
+            right--;
+        }        
     }
 };
