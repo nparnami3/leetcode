@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -103,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
