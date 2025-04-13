@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0906-walking-robot-simulation](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1137-height-checker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
