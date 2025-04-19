@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0441-arranging-coins](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nparnami3/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
