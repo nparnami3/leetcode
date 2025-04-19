@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0906-walking-robot-simulation](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/nparnami3/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/nparnami3/-CrackYourPlacement/tree/master/1137-height-checker) |
